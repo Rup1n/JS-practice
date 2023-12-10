@@ -68,8 +68,21 @@
 // makenoodles();
 // makenoodles();
 
-function ABCD(a){
-	console.log(a);
+// function ABCD(a){
+// 	console.log(a);
+// }
+// ABCD(12);
+// ABCD(10);
+
+// var arr = [1, 2, 3, 4, 5]
+// arr.splice(2, 2);
+// arr.shift();
+// arr.unshift(0);
+// arr.pop();
+// arr.push(6);
+
+var watch = {
+	brand: "Casio",
+	price: "20k",
+	color: "silver"
 }
-ABCD(12);
-ABCD(10);
